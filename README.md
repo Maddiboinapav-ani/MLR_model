@@ -11,3 +11,5 @@ numpy
 pandas
 matplotlib
 statsmodels.api
+sklearn.linear_model
+sklearn.model_selection
